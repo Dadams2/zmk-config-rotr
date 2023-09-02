@@ -60,7 +60,7 @@
 		};
 		four {
 			//PREV | PLAY/PAUSE | NEXT
-			bindings = <&desktop_left &lt 5 F13 &dekstop_right>;
+			bindings = <&desktop_left &lt 5 F13 &desktop_right>;
 		};
 		shift {
 			//PREV | PLAY/PAUSE | NEXT
